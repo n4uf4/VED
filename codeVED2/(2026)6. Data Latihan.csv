@@ -1,0 +1,481 @@
+﻿Tanggal,Wilayah,Kanal_Penjualan,Status_Pengiriman,Nilai_Penjualan_Juta,Biaya_Logistik_Juta,Jumlah_Unit,ID_Pesanan,Gudang_Pemenuhan,Metode_Pengiriman,Jumlah_Transaksi
+8/2/25,Timur,Retail,Tepat Waktu,45.5,5.92,641,SCM-0001,DC Tengah,Kurir Ekspres,1
+8/18/25,Tengah,Retail,Tepat Waktu,22.08,3.3,297,SCM-0002,DC Timur,Kurir Reguler,1
+5/26/25,Timur,Distributor,Terlambat,23.38,4.48,296,SCM-0003,DC Timur,Ekspedisi Truk,1
+10/27/25,Tengah,Retail,Terlambat,20.37,3.42,234,SCM-0004,Mitra 3PL,Ekspedisi Truk,1
+4/23/25,Barat,Retail,Tepat Waktu,19.52,2.21,295,SCM-0005,DC Barat,Ekspedisi Truk,1
+7/31/25,Timur,Retail,Tepat Waktu,36,4.42,477,SCM-0006,DC Tengah,Ekspedisi Truk,1
+10/28/25,Timur,Retail,Tepat Waktu,29.16,4.25,515,SCM-0007,DC Timur,Kurir Reguler,1
+2/1/25,Timur,Retail,Terlambat,35.26,4.96,456,SCM-0008,DC Timur,Kurir Ekspres,1
+1/17/26,Barat,Distributor,Tepat Waktu,25.68,4.39,316,SCM-0009,DC Tengah,Ekspedisi Truk,1
+12/14/25,Tengah,Distributor,Tepat Waktu,32.99,4.31,480,SCM-0010,DC Timur,Ekspedisi Truk,1
+1/28/25,Barat,Distributor,Tepat Waktu,21.09,2.58,349,SCM-0011,DC Barat,Ekspedisi Truk,1
+2/1/25,Timur,Distributor,Terlambat,75.21,9.91,1055,SCM-0012,DC Timur,Ekspedisi Truk,1
+2/17/26,Tengah,Distributor,Terlambat,12.15,3.17,190,SCM-0013,DC Tengah,Ekspedisi Truk,1
+5/18/25,Timur,Retail,Tepat Waktu,47.24,6.28,597,SCM-0014,Mitra 3PL,Ekspedisi Truk,1
+2/22/26,Tengah,Distributor,Tepat Waktu,49.73,6.99,672,SCM-0015,Mitra 3PL,Ekspedisi Truk,1
+8/31/25,Barat,Distributor,Tepat Waktu,17.13,2.06,202,SCM-0016,DC Barat,Ekspedisi Truk,1
+6/16/25,Tengah,Retail,Tepat Waktu,75.19,9.79,986,SCM-0017,DC Tengah,Kurir Ekspres,1
+5/13/25,Barat,Distributor,Tepat Waktu,41.59,6.19,586,SCM-0018,DC Barat,Ekspedisi Truk,1
+11/16/25,Timur,Retail,Tepat Waktu,41.11,4.77,497,SCM-0019,DC Timur,Ekspedisi Truk,1
+2/23/25,Tengah,Distributor,Terlambat,26.14,3.98,320,SCM-0020,DC Tengah,Ekspedisi Truk,1
+7/15/25,Timur,Distributor,Tepat Waktu,23.24,3.82,307,SCM-0021,DC Timur,Ekspedisi Truk,1
+6/17/25,Barat,Online,Tepat Waktu,74.64,8.75,1016,SCM-0022,DC Barat,Kurir Reguler,1
+3/16/25,Timur,Online,Tepat Waktu,31.11,5.2,449,SCM-0023,DC Tengah,Kurir Ekspres,1
+6/21/25,Timur,Distributor,Tepat Waktu,50.53,7.68,718,SCM-0024,DC Timur,Kurir Ekspres,1
+9/14/25,Timur,Distributor,Terlambat,28.14,4.15,425,SCM-0025,DC Timur,Ekspedisi Truk,1
+11/25/25,Barat,Distributor,Tepat Waktu,16.65,2.21,259,SCM-0026,DC Barat,Ekspedisi Truk,1
+2/11/25,Tengah,Retail,Tepat Waktu,38.31,5.02,576,SCM-0027,DC Tengah,Kurir Reguler,1
+2/28/26,Barat,Online,Terlambat,40.13,5.28,562,SCM-0028,DC Barat,Kurir Reguler,1
+3/3/26,Barat,Distributor,Tepat Waktu,35.31,4,505,SCM-0029,Mitra 3PL,Ekspedisi Truk,1
+12/2/25,Tengah,Retail,Tepat Waktu,36.89,4.39,534,SCM-0030,DC Tengah,Ekspedisi Truk,1
+3/25/26,Tengah,Retail,Tepat Waktu,22.65,5.11,322,SCM-0031,DC Tengah,Kurir Reguler,1
+7/27/25,Timur,Online,Tepat Waktu,16.51,2.72,217,SCM-0032,DC Timur,Kurir Ekspres,1
+2/3/26,Barat,Retail,Tepat Waktu,17,2.3,226,SCM-0033,DC Barat,Ekspedisi Truk,1
+12/19/25,Barat,Retail,Tepat Waktu,11.76,1.59,136,SCM-0034,DC Barat,Kurir Ekspres,1
+9/30/25,Tengah,Retail,Tepat Waktu,28.9,3.42,419,SCM-0035,DC Barat,Ekspedisi Truk,1
+3/29/25,Barat,Retail,Tepat Waktu,24.78,3.18,344,SCM-0036,DC Barat,Ekspedisi Truk,1
+9/28/25,Barat,Retail,Tepat Waktu,20.88,2.73,269,SCM-0037,Mitra 3PL,Ekspedisi Truk,1
+3/14/26,Tengah,Distributor,Terlambat,6.24,2.11,64,SCM-0038,DC Tengah,Kurir Reguler,1
+4/23/26,Barat,Retail,Tepat Waktu,14.17,2.63,156,SCM-0039,DC Barat,Ekspedisi Truk,1
+8/6/25,Tengah,Online,Tepat Waktu,44.17,5.56,653,SCM-0040,Mitra 3PL,Kurir Reguler,1
+5/1/25,Tengah,Online,Terlambat,18.75,4.18,265,SCM-0041,Mitra 3PL,Kurir Ekspres,1
+12/29/25,Timur,Retail,Tepat Waktu,30.66,3.96,399,SCM-0042,DC Timur,Kurir Ekspres,1
+2/6/25,Tengah,Retail,Terlambat,13.23,4.49,214,SCM-0043,DC Tengah,Ekspedisi Truk,1
+3/15/25,Barat,Distributor,Tepat Waktu,51.45,6.95,701,SCM-0044,DC Barat,Ekspedisi Truk,1
+9/30/25,Timur,Retail,Tepat Waktu,24.07,3.53,288,SCM-0045,DC Timur,Ekspedisi Truk,1
+4/26/26,Timur,Retail,Tepat Waktu,29.64,4.33,451,SCM-0046,DC Timur,Ekspedisi Truk,1
+6/9/25,Barat,Online,Tepat Waktu,78.76,9.13,1084,SCM-0047,DC Barat,Kurir Ekspres,1
+8/4/25,Barat,Online,Tepat Waktu,53.4,6.49,733,SCM-0048,DC Tengah,Kurir Ekspres,1
+6/6/25,Tengah,Distributor,Tepat Waktu,22.26,3.04,313,SCM-0049,DC Tengah,Ekspedisi Truk,1
+8/2/25,Barat,Retail,Tepat Waktu,19.4,2.52,312,SCM-0050,DC Barat,Ekspedisi Truk,1
+1/4/25,Barat,Distributor,Tepat Waktu,70.59,7.97,989,SCM-0051,DC Barat,Kurir Reguler,1
+10/16/25,Barat,Distributor,Tepat Waktu,32.94,4.74,419,SCM-0052,DC Barat,Ekspedisi Truk,1
+10/17/25,Timur,Retail,Tepat Waktu,24.52,4.16,362,SCM-0053,DC Timur,Ekspedisi Truk,1
+6/3/25,Tengah,Distributor,Tepat Waktu,21.33,3.35,282,SCM-0054,DC Tengah,Ekspedisi Truk,1
+5/9/25,Tengah,Retail,Tepat Waktu,52.16,6.44,796,SCM-0055,DC Tengah,Ekspedisi Truk,1
+1/5/26,Timur,Retail,Terlambat,24.41,6.4,342,SCM-0056,DC Timur,Ekspedisi Truk,1
+4/2/25,Tengah,Distributor,Tepat Waktu,77.77,8.98,1011,SCM-0057,DC Barat,Ekspedisi Truk,1
+1/23/25,Tengah,Retail,Tepat Waktu,26.94,3.87,390,SCM-0058,Mitra 3PL,Kurir Ekspres,1
+1/20/25,Barat,Retail,Terlambat,60.76,9.09,919,SCM-0059,DC Barat,Ekspedisi Truk,1
+3/4/26,Barat,Online,Tepat Waktu,30.62,3.64,484,SCM-0060,DC Tengah,Kurir Ekspres,1
+6/26/25,Tengah,Online,Tepat Waktu,40.94,5.68,637,SCM-0061,DC Timur,Kurir Ekspres,1
+2/19/25,Tengah,Distributor,Tepat Waktu,18.21,4.33,219,SCM-0062,DC Tengah,Kurir Ekspres,1
+3/3/26,Tengah,Online,Tepat Waktu,17.12,2.63,272,SCM-0063,DC Barat,Kurir Reguler,1
+3/14/25,Timur,Online,Tepat Waktu,32.16,4.38,425,SCM-0064,DC Timur,Kurir Reguler,1
+6/13/25,Tengah,Retail,Tepat Waktu,41.45,4.99,588,SCM-0065,DC Barat,Ekspedisi Truk,1
+1/11/25,Tengah,Retail,Tepat Waktu,26.29,3.95,324,SCM-0066,DC Tengah,Ekspedisi Truk,1
+11/26/25,Tengah,Retail,Tepat Waktu,13.91,1.91,172,SCM-0067,DC Barat,Kurir Ekspres,1
+12/6/25,Barat,Retail,Tepat Waktu,13.42,2.19,164,SCM-0068,DC Barat,Ekspedisi Truk,1
+1/2/26,Barat,Distributor,Tepat Waktu,13,1.61,213,SCM-0069,DC Barat,Ekspedisi Truk,1
+5/8/25,Tengah,Retail,Tepat Waktu,11.04,1.24,183,SCM-0070,DC Tengah,Ekspedisi Truk,1
+6/9/25,Barat,Retail,Tepat Waktu,27.18,3.5,390,SCM-0071,DC Barat,Kurir Reguler,1
+3/31/26,Tengah,Retail,Tepat Waktu,44.26,5.37,572,SCM-0072,DC Tengah,Ekspedisi Truk,1
+2/3/26,Timur,Retail,Tepat Waktu,25.62,3.36,348,SCM-0073,DC Timur,Ekspedisi Truk,1
+1/19/25,Barat,Online,Tepat Waktu,8.71,2.22,96,SCM-0074,DC Barat,Kurir Ekspres,1
+12/2/25,Barat,Retail,Tepat Waktu,23.53,4.08,360,SCM-0075,DC Barat,Kurir Reguler,1
+1/30/26,Barat,Retail,Tepat Waktu,23.85,3.56,375,SCM-0076,DC Barat,Kurir Ekspres,1
+9/29/25,Barat,Retail,Tepat Waktu,70.53,8.96,1024,SCM-0077,DC Barat,Ekspedisi Truk,1
+11/7/25,Tengah,Distributor,Tepat Waktu,12.81,1.8,153,SCM-0078,DC Barat,Ekspedisi Truk,1
+1/1/25,Tengah,Distributor,Tepat Waktu,21.38,2.66,203,SCM-0079,DC Tengah,Ekspedisi Truk,1
+1/15/25,Timur,Distributor,Terlambat,58.49,8.31,757,SCM-0080,DC Timur,Ekspedisi Truk,1
+1/18/25,Tengah,Retail,Terlambat,32.01,4.59,498,SCM-0081,DC Tengah,Kurir Ekspres,1
+3/19/25,Tengah,Retail,Tepat Waktu,33.8,3.96,459,SCM-0082,DC Tengah,Kurir Ekspres,1
+4/26/26,Timur,Online,Tepat Waktu,27.25,6.93,355,SCM-0083,DC Timur,Kurir Reguler,1
+11/4/25,Barat,Distributor,Tepat Waktu,30.22,4.11,481,SCM-0084,DC Barat,Ekspedisi Truk,1
+1/15/26,Barat,Distributor,Terlambat,37.46,5.42,569,SCM-0085,DC Barat,Kurir Reguler,1
+5/24/25,Barat,Distributor,Tepat Waktu,17.49,2.38,246,SCM-0086,DC Barat,Ekspedisi Truk,1
+3/31/26,Tengah,Distributor,Terlambat,39.31,5.31,540,SCM-0087,DC Barat,Kurir Reguler,1
+4/7/25,Tengah,Retail,Tepat Waktu,13.34,2.39,182,SCM-0088,DC Tengah,Ekspedisi Truk,1
+3/14/26,Barat,Retail,Tepat Waktu,30.19,3.91,431,SCM-0089,DC Barat,Kurir Reguler,1
+1/15/25,Tengah,Distributor,Tepat Waktu,28.1,4.55,449,SCM-0090,DC Barat,Kurir Reguler,1
+1/10/25,Barat,Retail,Tepat Waktu,19.19,3.21,283,SCM-0091,DC Barat,Kurir Reguler,1
+2/8/25,Tengah,Online,Terlambat,25.51,4.17,383,SCM-0092,Mitra 3PL,Kurir Ekspres,1
+1/20/26,Tengah,Distributor,Tepat Waktu,19.13,2.19,309,SCM-0093,DC Tengah,Kurir Ekspres,1
+5/5/25,Barat,Distributor,Tepat Waktu,15.42,2.48,175,SCM-0094,DC Barat,Ekspedisi Truk,1
+8/7/25,Barat,Online,Tepat Waktu,21.76,3.12,331,SCM-0095,Mitra 3PL,Kurir Ekspres,1
+8/17/25,Tengah,Distributor,Tepat Waktu,15.18,1.74,202,SCM-0096,DC Tengah,Ekspedisi Truk,1
+1/18/26,Barat,Online,Tepat Waktu,30.11,4.32,334,SCM-0097,Mitra 3PL,Kurir Ekspres,1
+6/19/25,Barat,Distributor,Tepat Waktu,14.85,1.89,133,SCM-0098,DC Tengah,Kurir Reguler,1
+1/4/25,Barat,Online,Tepat Waktu,36.3,5.51,473,SCM-0099,DC Barat,Kurir Reguler,1
+7/7/25,Timur,Retail,Tepat Waktu,14.63,2.3,223,SCM-0100,DC Timur,Ekspedisi Truk,1
+5/20/25,Timur,Distributor,Tepat Waktu,19.65,2.6,279,SCM-0101,DC Timur,Ekspedisi Truk,1
+12/21/25,Tengah,Distributor,Tepat Waktu,19.11,2.97,274,SCM-0102,DC Timur,Kurir Reguler,1
+12/31/25,Barat,Retail,Tepat Waktu,48.72,6.19,750,SCM-0103,DC Barat,Ekspedisi Truk,1
+2/14/25,Timur,Retail,Tepat Waktu,30.22,4.13,379,SCM-0104,DC Timur,Ekspedisi Truk,1
+1/20/26,Timur,Online,Tepat Waktu,23.3,3.94,325,SCM-0105,DC Timur,Kurir Ekspres,1
+2/4/25,Tengah,Distributor,Tepat Waktu,32.77,4.51,469,SCM-0106,DC Barat,Kurir Reguler,1
+10/28/25,Tengah,Retail,Tepat Waktu,9.38,1.44,106,SCM-0107,DC Tengah,Ekspedisi Truk,1
+7/8/25,Barat,Retail,Tepat Waktu,25.26,3.38,355,SCM-0108,DC Barat,Kurir Reguler,1
+5/27/25,Barat,Retail,Terlambat,67.28,10.09,886,SCM-0109,DC Barat,Kurir Ekspres,1
+8/23/25,Timur,Retail,Tepat Waktu,27.48,3.4,434,SCM-0110,DC Tengah,Kurir Ekspres,1
+5/31/25,Tengah,Online,Tepat Waktu,26.64,3.93,349,SCM-0111,DC Tengah,Kurir Reguler,1
+1/21/26,Barat,Retail,Tepat Waktu,33.55,5.1,541,SCM-0112,DC Barat,Kurir Reguler,1
+4/14/26,Barat,Retail,Tepat Waktu,39.64,5.43,554,SCM-0113,Mitra 3PL,Kurir Reguler,1
+1/31/26,Tengah,Distributor,Tepat Waktu,9.89,1.87,174,SCM-0114,DC Tengah,Kurir Reguler,1
+8/2/25,Barat,Retail,Tepat Waktu,11.5,2.15,159,SCM-0115,DC Barat,Kurir Reguler,1
+9/2/25,Timur,Retail,Tepat Waktu,28.53,4.26,398,SCM-0116,DC Timur,Kurir Reguler,1
+8/5/25,Timur,Distributor,Tepat Waktu,18.3,2.38,236,SCM-0117,DC Barat,Ekspedisi Truk,1
+1/20/26,Tengah,Distributor,Tepat Waktu,48.41,6.06,682,SCM-0118,Mitra 3PL,Ekspedisi Truk,1
+9/25/25,Tengah,Online,Tepat Waktu,22.17,5.34,322,SCM-0119,DC Tengah,Kurir Reguler,1
+8/16/25,Tengah,Distributor,Tepat Waktu,10.19,2.14,115,SCM-0120,DC Tengah,Ekspedisi Truk,1
+7/18/25,Tengah,Retail,Tepat Waktu,14.03,2.35,192,SCM-0121,Mitra 3PL,Ekspedisi Truk,1
+7/1/25,Tengah,Distributor,Tepat Waktu,6.89,1.31,75,SCM-0122,DC Timur,Ekspedisi Truk,1
+9/26/25,Barat,Online,Tepat Waktu,23.05,2.91,403,SCM-0123,DC Barat,Kurir Reguler,1
+12/1/25,Tengah,Distributor,Tepat Waktu,23.56,3.5,327,SCM-0124,DC Tengah,Kurir Ekspres,1
+7/29/25,Barat,Online,Tepat Waktu,21.04,3.27,349,SCM-0125,DC Barat,Kurir Reguler,1
+1/27/26,Tengah,Distributor,Tepat Waktu,43.29,5.46,599,SCM-0126,DC Tengah,Ekspedisi Truk,1
+2/5/26,Barat,Online,Tepat Waktu,45.85,8.72,651,SCM-0127,DC Barat,Kurir Ekspres,1
+7/28/25,Barat,Retail,Tepat Waktu,23.76,3.02,286,SCM-0128,DC Tengah,Ekspedisi Truk,1
+3/17/26,Barat,Distributor,Tepat Waktu,9.26,1.34,114,SCM-0129,DC Barat,Ekspedisi Truk,1
+3/25/25,Tengah,Retail,Tepat Waktu,34.68,4.37,493,SCM-0130,DC Tengah,Kurir Reguler,1
+3/29/26,Barat,Distributor,Tepat Waktu,33.67,4.42,527,SCM-0131,Mitra 3PL,Ekspedisi Truk,1
+5/23/25,Timur,Distributor,Tepat Waktu,29.92,3.65,427,SCM-0132,DC Timur,Ekspedisi Truk,1
+10/1/25,Tengah,Online,Tepat Waktu,41.31,5.43,627,SCM-0133,DC Tengah,Kurir Reguler,1
+5/18/25,Barat,Online,Tepat Waktu,14.74,2.58,229,SCM-0134,DC Barat,Kurir Reguler,1
+8/3/25,Tengah,Retail,Tepat Waktu,67.64,8.66,1004,SCM-0135,DC Tengah,Kurir Ekspres,1
+6/14/25,Barat,Distributor,Tepat Waktu,16.27,2.28,226,SCM-0136,DC Barat,Ekspedisi Truk,1
+12/9/25,Timur,Distributor,Terlambat,36.95,6.65,601,SCM-0137,Mitra 3PL,Ekspedisi Truk,1
+2/9/25,Tengah,Retail,Tepat Waktu,11.47,2.42,144,SCM-0138,DC Tengah,Ekspedisi Truk,1
+2/11/26,Timur,Retail,Tepat Waktu,16.5,2.21,204,SCM-0139,Mitra 3PL,Ekspedisi Truk,1
+3/15/26,Barat,Retail,Tepat Waktu,53.4,6.23,705,SCM-0140,DC Barat,Ekspedisi Truk,1
+10/1/25,Tengah,Distributor,Terlambat,22.75,3.89,400,SCM-0141,DC Tengah,Kurir Reguler,1
+9/23/25,Tengah,Distributor,Tepat Waktu,38.6,5.21,569,SCM-0142,DC Barat,Kurir Reguler,1
+12/6/25,Timur,Online,Tepat Waktu,28.9,4.24,393,SCM-0143,Mitra 3PL,Kurir Ekspres,1
+4/7/25,Tengah,Retail,Tepat Waktu,24.52,3.86,387,SCM-0144,DC Barat,Kurir Reguler,1
+12/30/25,Tengah,Online,Terlambat,49.63,9.04,719,SCM-0145,DC Tengah,Kurir Ekspres,1
+4/17/25,Barat,Retail,Tepat Waktu,23.02,2.66,391,SCM-0146,DC Barat,Ekspedisi Truk,1
+11/25/25,Barat,Distributor,Terlambat,10.97,2.69,99,SCM-0147,DC Barat,Kurir Reguler,1
+5/29/25,Tengah,Retail,Tepat Waktu,17.54,4.56,236,SCM-0148,DC Tengah,Kurir Reguler,1
+12/28/25,Tengah,Distributor,Tepat Waktu,33.6,4.95,454,SCM-0149,DC Tengah,Ekspedisi Truk,1
+1/19/26,Barat,Online,Tepat Waktu,31.18,3.74,367,SCM-0150,Mitra 3PL,Kurir Ekspres,1
+4/12/25,Timur,Online,Terlambat,12.16,2.99,207,SCM-0151,DC Barat,Kurir Reguler,1
+10/27/25,Timur,Online,Tepat Waktu,18.22,2.65,246,SCM-0152,DC Timur,Kurir Ekspres,1
+8/30/25,Barat,Retail,Tepat Waktu,19.51,2.78,299,SCM-0153,DC Barat,Ekspedisi Truk,1
+5/23/25,Tengah,Retail,Tepat Waktu,21.64,2.86,386,SCM-0154,DC Tengah,Ekspedisi Truk,1
+10/13/25,Barat,Retail,Tepat Waktu,13.32,2.27,174,SCM-0155,DC Barat,Ekspedisi Truk,1
+4/27/26,Tengah,Retail,Terlambat,19.08,4.47,252,SCM-0156,DC Barat,Ekspedisi Truk,1
+1/2/25,Barat,Distributor,Tepat Waktu,18.18,2.51,259,SCM-0157,DC Barat,Ekspedisi Truk,1
+4/10/26,Tengah,Distributor,Tepat Waktu,37.35,5.27,557,SCM-0158,DC Tengah,Ekspedisi Truk,1
+2/20/26,Tengah,Distributor,Tepat Waktu,38.03,5.49,513,SCM-0159,DC Tengah,Ekspedisi Truk,1
+9/14/25,Timur,Online,Tepat Waktu,24.05,4.42,315,SCM-0160,DC Timur,Kurir Reguler,1
+10/23/25,Barat,Distributor,Tepat Waktu,21.37,2.7,336,SCM-0161,DC Barat,Ekspedisi Truk,1
+6/29/25,Timur,Online,Terlambat,27.58,4.59,399,SCM-0162,DC Timur,Kurir Reguler,1
+3/4/25,Barat,Retail,Tepat Waktu,17.43,2.35,172,SCM-0163,DC Tengah,Kurir Reguler,1
+10/5/25,Barat,Retail,Tepat Waktu,14.87,2.44,165,SCM-0164,Mitra 3PL,Kurir Reguler,1
+1/31/26,Tengah,Distributor,Tepat Waktu,16.42,2.61,282,SCM-0165,DC Tengah,Ekspedisi Truk,1
+4/23/25,Barat,Online,Tepat Waktu,19.02,2.37,280,SCM-0166,Mitra 3PL,Kurir Reguler,1
+12/14/25,Timur,Retail,Tepat Waktu,14.75,2.46,180,SCM-0167,DC Timur,Ekspedisi Truk,1
+12/29/25,Timur,Distributor,Tepat Waktu,27.88,5.94,384,SCM-0168,DC Timur,Ekspedisi Truk,1
+1/3/26,Barat,Distributor,Tepat Waktu,117.15,13.95,1640,SCM-0169,DC Barat,Ekspedisi Truk,1
+6/14/25,Timur,Retail,Tepat Waktu,12.04,1.55,194,SCM-0170,DC Timur,Kurir Reguler,1
+7/10/25,Barat,Retail,Tepat Waktu,26.1,3.2,318,SCM-0171,DC Tengah,Ekspedisi Truk,1
+7/21/25,Tengah,Online,Tepat Waktu,23.21,3.28,295,SCM-0172,DC Barat,Kurir Reguler,1
+2/19/26,Barat,Distributor,Terlambat,30.38,4.48,435,SCM-0173,DC Barat,Kurir Ekspres,1
+3/13/26,Timur,Retail,Tepat Waktu,25.63,4.53,355,SCM-0174,Mitra 3PL,Kurir Reguler,1
+7/20/25,Barat,Online,Tepat Waktu,12.84,1.61,200,SCM-0175,DC Barat,Kurir Reguler,1
+4/16/26,Barat,Retail,Tepat Waktu,14.07,2.62,154,SCM-0176,DC Barat,Ekspedisi Truk,1
+10/4/25,Tengah,Online,Tepat Waktu,26.16,3.03,379,SCM-0177,DC Tengah,Kurir Ekspres,1
+7/6/25,Timur,Retail,Tepat Waktu,42.26,5.37,630,SCM-0178,DC Timur,Kurir Reguler,1
+1/1/25,Timur,Distributor,Terlambat,8.91,2.07,142,SCM-0179,DC Timur,Kurir Reguler,1
+10/24/25,Tengah,Retail,Tepat Waktu,30.45,4.56,431,SCM-0180,DC Tengah,Ekspedisi Truk,1
+11/9/25,Timur,Retail,Tepat Waktu,45.65,6.55,636,SCM-0181,Mitra 3PL,Kurir Ekspres,1
+4/15/26,Timur,Online,Tepat Waktu,23.96,3.6,306,SCM-0182,DC Timur,Kurir Reguler,1
+12/15/25,Tengah,Retail,Tepat Waktu,33.59,5.27,468,SCM-0183,DC Timur,Ekspedisi Truk,1
+1/15/25,Barat,Retail,Tepat Waktu,18.4,2.07,302,SCM-0184,DC Barat,Ekspedisi Truk,1
+10/3/25,Timur,Retail,Tepat Waktu,24.35,3.51,337,SCM-0185,DC Timur,Kurir Reguler,1
+12/27/25,Tengah,Distributor,Tepat Waktu,11.85,2.37,135,SCM-0186,Mitra 3PL,Ekspedisi Truk,1
+8/29/25,Barat,Online,Tepat Waktu,8.37,2.08,100,SCM-0187,DC Barat,Kurir Ekspres,1
+7/28/25,Barat,Online,Tepat Waktu,40.55,5.48,575,SCM-0188,DC Barat,Kurir Reguler,1
+1/28/26,Tengah,Retail,Tepat Waktu,16.07,2.95,212,SCM-0189,DC Tengah,Ekspedisi Truk,1
+10/24/25,Barat,Retail,Tepat Waktu,20.73,3.11,307,SCM-0190,DC Barat,Ekspedisi Truk,1
+11/27/25,Timur,Retail,Terlambat,13.26,2.48,204,SCM-0191,DC Tengah,Kurir Reguler,1
+8/14/25,Barat,Distributor,Tepat Waktu,13.11,1.92,215,SCM-0192,DC Barat,Ekspedisi Truk,1
+5/15/25,Barat,Online,Terlambat,23.73,5.13,382,SCM-0193,DC Barat,Kurir Reguler,1
+9/9/25,Timur,Distributor,Terlambat,18.17,4.39,289,SCM-0194,DC Timur,Ekspedisi Truk,1
+4/11/26,Barat,Distributor,Tepat Waktu,30.92,4.45,400,SCM-0195,DC Barat,Ekspedisi Truk,1
+10/20/25,Barat,Retail,Terlambat,32.05,5.56,417,SCM-0196,DC Barat,Ekspedisi Truk,1
+12/10/25,Tengah,Online,Terlambat,30.08,5.58,419,SCM-0197,DC Tengah,Kurir Ekspres,1
+3/2/25,Timur,Distributor,Terlambat,28.92,5.02,389,SCM-0198,DC Tengah,Ekspedisi Truk,1
+4/25/26,Barat,Retail,Tepat Waktu,55,7.74,730,SCM-0199,DC Barat,Ekspedisi Truk,1
+4/29/25,Barat,Retail,Tepat Waktu,15.45,3.35,201,SCM-0200,DC Barat,Kurir Reguler,1
+4/17/26,Timur,Retail,Terlambat,25.12,7.02,335,SCM-0201,DC Tengah,Ekspedisi Truk,1
+8/5/25,Timur,Retail,Tepat Waktu,44.42,5.38,598,SCM-0202,DC Timur,Ekspedisi Truk,1
+3/22/26,Tengah,Retail,Tepat Waktu,47.32,5.71,651,SCM-0203,DC Tengah,Ekspedisi Truk,1
+3/9/26,Barat,Retail,Tepat Waktu,13.03,2.42,224,SCM-0204,DC Barat,Ekspedisi Truk,1
+1/2/26,Barat,Distributor,Tepat Waktu,22.2,4.97,318,SCM-0205,DC Barat,Ekspedisi Truk,1
+3/21/26,Barat,Retail,Tepat Waktu,49.5,7.22,779,SCM-0206,DC Barat,Ekspedisi Truk,1
+10/23/25,Barat,Retail,Tepat Waktu,32.91,4.96,467,SCM-0207,Mitra 3PL,Ekspedisi Truk,1
+2/16/26,Tengah,Online,Tepat Waktu,28.32,4.98,386,SCM-0208,DC Barat,Kurir Ekspres,1
+3/25/25,Barat,Distributor,Tepat Waktu,23.23,3.63,325,SCM-0209,DC Barat,Ekspedisi Truk,1
+2/4/25,Tengah,Distributor,Terlambat,21.45,3.75,309,SCM-0210,DC Timur,Ekspedisi Truk,1
+9/21/25,Tengah,Retail,Tepat Waktu,29.62,6.2,430,SCM-0211,DC Barat,Kurir Reguler,1
+1/28/26,Tengah,Online,Tepat Waktu,22.85,3.53,393,SCM-0212,DC Barat,Kurir Ekspres,1
+1/7/26,Barat,Retail,Tepat Waktu,25.27,4.41,324,SCM-0213,DC Timur,Kurir Reguler,1
+9/14/25,Timur,Retail,Tepat Waktu,26.78,2.99,405,SCM-0214,Mitra 3PL,Ekspedisi Truk,1
+9/10/25,Tengah,Online,Tepat Waktu,18.63,2.11,268,SCM-0215,DC Timur,Kurir Reguler,1
+10/23/25,Tengah,Distributor,Tepat Waktu,33.3,4.52,411,SCM-0216,DC Tengah,Ekspedisi Truk,1
+2/26/26,Barat,Distributor,Tepat Waktu,104.46,11.83,1489,SCM-0217,DC Barat,Ekspedisi Truk,1
+2/13/26,Barat,Distributor,Tepat Waktu,10.99,2.12,198,SCM-0218,Mitra 3PL,Ekspedisi Truk,1
+2/23/25,Timur,Distributor,Terlambat,30.13,4.61,392,SCM-0219,DC Timur,Ekspedisi Truk,1
+10/16/25,Barat,Retail,Tepat Waktu,17.91,5.75,250,SCM-0220,Mitra 3PL,Kurir Ekspres,1
+7/4/25,Barat,Retail,Tepat Waktu,34.03,5.28,416,SCM-0221,DC Barat,Ekspedisi Truk,1
+1/23/26,Tengah,Retail,Terlambat,26.37,5.68,325,SCM-0222,DC Barat,Ekspedisi Truk,1
+9/3/25,Tengah,Retail,Terlambat,37.18,4.97,557,SCM-0223,DC Tengah,Ekspedisi Truk,1
+4/26/26,Timur,Online,Terlambat,45.34,7.11,618,SCM-0224,DC Timur,Kurir Ekspres,1
+7/29/25,Barat,Retail,Tepat Waktu,28.29,3.76,357,SCM-0225,DC Tengah,Kurir Ekspres,1
+11/26/25,Timur,Distributor,Tepat Waktu,44.41,6.89,630,SCM-0226,DC Timur,Ekspedisi Truk,1
+2/22/25,Barat,Distributor,Tepat Waktu,8.37,2.12,99,SCM-0227,Mitra 3PL,Ekspedisi Truk,1
+3/29/26,Tengah,Distributor,Tepat Waktu,55.34,6.82,758,SCM-0228,DC Barat,Kurir Reguler,1
+3/16/25,Tengah,Retail,Terlambat,30.88,4.45,458,SCM-0229,DC Timur,Ekspedisi Truk,1
+7/3/25,Barat,Retail,Tepat Waktu,43.27,5.6,565,SCM-0230,DC Barat,Kurir Ekspres,1
+2/11/26,Barat,Online,Tepat Waktu,14.36,3.27,169,SCM-0231,DC Barat,Kurir Ekspres,1
+4/15/26,Tengah,Distributor,Tepat Waktu,55.39,8.17,781,SCM-0232,DC Tengah,Ekspedisi Truk,1
+8/23/25,Timur,Online,Tepat Waktu,27.66,3.61,421,SCM-0233,DC Timur,Kurir Ekspres,1
+8/24/25,Tengah,Online,Tepat Waktu,25.58,6.21,401,SCM-0234,DC Timur,Kurir Reguler,1
+1/24/25,Timur,Distributor,Tepat Waktu,29.54,4.86,390,SCM-0235,DC Timur,Ekspedisi Truk,1
+4/20/26,Timur,Retail,Terlambat,43.4,5.92,640,SCM-0236,Mitra 3PL,Kurir Reguler,1
+1/8/25,Tengah,Distributor,Tepat Waktu,11.05,1.49,127,SCM-0237,DC Tengah,Kurir Ekspres,1
+1/13/25,Timur,Retail,Tepat Waktu,41.16,5.21,640,SCM-0238,DC Timur,Ekspedisi Truk,1
+8/18/25,Barat,Distributor,Tepat Waktu,25.89,3.41,323,SCM-0239,DC Barat,Kurir Reguler,1
+1/2/25,Barat,Online,Tepat Waktu,23.39,3.66,374,SCM-0240,DC Barat,Kurir Ekspres,1
+3/21/25,Timur,Distributor,Tepat Waktu,12.73,2.18,155,SCM-0241,DC Timur,Ekspedisi Truk,1
+11/1/25,Timur,Retail,Tepat Waktu,32.83,4.21,530,SCM-0242,DC Tengah,Ekspedisi Truk,1
+12/8/25,Barat,Retail,Tepat Waktu,8.09,1.06,134,SCM-0243,DC Barat,Kurir Ekspres,1
+5/25/25,Tengah,Online,Tepat Waktu,35.21,5.09,457,SCM-0244,DC Tengah,Kurir Reguler,1
+1/21/26,Tengah,Retail,Terlambat,12.6,2.34,158,SCM-0245,DC Tengah,Ekspedisi Truk,1
+10/22/25,Timur,Retail,Terlambat,26.46,5.32,398,SCM-0246,DC Timur,Ekspedisi Truk,1
+4/21/25,Tengah,Retail,Tepat Waktu,24.36,2.77,378,SCM-0247,DC Timur,Ekspedisi Truk,1
+12/12/25,Tengah,Retail,Tepat Waktu,45.21,5.11,631,SCM-0248,DC Tengah,Ekspedisi Truk,1
+10/15/25,Barat,Retail,Tepat Waktu,23.67,2.95,333,SCM-0249,DC Barat,Kurir Reguler,1
+1/29/26,Tengah,Distributor,Tepat Waktu,18.48,2.55,285,SCM-0250,DC Barat,Ekspedisi Truk,1
+3/16/25,Tengah,Retail,Tepat Waktu,20.22,2.66,288,SCM-0251,Mitra 3PL,Ekspedisi Truk,1
+4/22/25,Timur,Retail,Tepat Waktu,47.51,5.75,620,SCM-0252,DC Barat,Kurir Reguler,1
+5/28/25,Tengah,Retail,Tepat Waktu,33.36,4.6,439,SCM-0253,DC Tengah,Kurir Ekspres,1
+6/15/25,Barat,Retail,Tepat Waktu,21.43,2.71,308,SCM-0254,DC Barat,Ekspedisi Truk,1
+3/8/26,Barat,Retail,Tepat Waktu,23.02,3.46,365,SCM-0255,DC Tengah,Kurir Ekspres,1
+12/22/25,Tengah,Distributor,Tepat Waktu,12.16,1.38,227,SCM-0256,Mitra 3PL,Ekspedisi Truk,1
+9/21/25,Timur,Retail,Terlambat,31.08,4.56,462,SCM-0257,DC Timur,Ekspedisi Truk,1
+9/20/25,Barat,Retail,Tepat Waktu,11.08,1.35,165,SCM-0258,Mitra 3PL,Ekspedisi Truk,1
+3/6/26,Barat,Retail,Tepat Waktu,37,5.67,544,SCM-0259,DC Barat,Ekspedisi Truk,1
+8/5/25,Tengah,Retail,Terlambat,27.43,4.21,361,SCM-0260,DC Tengah,Ekspedisi Truk,1
+4/20/25,Barat,Retail,Terlambat,81.1,10.89,1130,SCM-0261,DC Barat,Ekspedisi Truk,1
+3/8/25,Timur,Retail,Terlambat,15.21,2.58,184,SCM-0262,DC Timur,Ekspedisi Truk,1
+6/10/25,Barat,Online,Tepat Waktu,24.55,4.76,300,SCM-0263,DC Barat,Kurir Reguler,1
+11/13/25,Barat,Retail,Tepat Waktu,61.14,7.54,868,SCM-0264,DC Barat,Kurir Reguler,1
+8/17/25,Timur,Distributor,Terlambat,45.69,6.57,646,SCM-0265,DC Timur,Ekspedisi Truk,1
+7/24/25,Barat,Distributor,Tepat Waktu,18.46,2.2,283,SCM-0266,DC Timur,Ekspedisi Truk,1
+8/21/25,Barat,Retail,Tepat Waktu,28.72,3.46,421,SCM-0267,Mitra 3PL,Kurir Ekspres,1
+4/18/26,Barat,Retail,Tepat Waktu,25.82,3.46,370,SCM-0268,DC Barat,Kurir Ekspres,1
+4/29/26,Barat,Distributor,Tepat Waktu,29.53,3.56,433,SCM-0269,DC Barat,Ekspedisi Truk,1
+3/20/25,Barat,Online,Terlambat,18.44,4.32,257,SCM-0270,DC Barat,Ekspedisi Truk,1
+2/25/25,Barat,Retail,Tepat Waktu,24.71,3.51,360,SCM-0271,DC Tengah,Kurir Reguler,1
+4/29/25,Barat,Retail,Tepat Waktu,11.98,1.63,142,SCM-0272,DC Barat,Kurir Reguler,1
+2/18/26,Barat,Retail,Tepat Waktu,27.52,4.36,398,SCM-0273,DC Barat,Ekspedisi Truk,1
+8/11/25,Tengah,Retail,Tepat Waktu,32.01,4.07,472,SCM-0274,DC Tengah,Ekspedisi Truk,1
+2/23/26,Tengah,Distributor,Tepat Waktu,23.12,3.83,300,SCM-0275,DC Tengah,Ekspedisi Truk,1
+11/10/25,Barat,Retail,Terlambat,11.88,2.59,168,SCM-0276,DC Barat,Kurir Ekspres,1
+9/26/25,Barat,Retail,Tepat Waktu,41.45,5.67,558,SCM-0277,DC Barat,Kurir Ekspres,1
+5/17/25,Tengah,Online,Tepat Waktu,30.72,3.92,412,SCM-0278,DC Tengah,Kurir Reguler,1
+6/16/25,Timur,Retail,Terlambat,18.2,4.29,215,SCM-0279,DC Timur,Ekspedisi Truk,1
+3/13/25,Timur,Retail,Terlambat,22.54,3.39,360,SCM-0280,Mitra 3PL,Ekspedisi Truk,1
+9/9/25,Barat,Distributor,Tepat Waktu,12.55,1.61,213,SCM-0281,DC Barat,Ekspedisi Truk,1
+5/16/25,Barat,Retail,Tepat Waktu,15.77,2.4,240,SCM-0282,DC Barat,Kurir Ekspres,1
+5/22/25,Barat,Retail,Tepat Waktu,19.92,2.6,348,SCM-0283,Mitra 3PL,Kurir Reguler,1
+1/20/25,Barat,Retail,Terlambat,46.51,6.44,644,SCM-0284,DC Barat,Ekspedisi Truk,1
+1/23/26,Tengah,Online,Tepat Waktu,18.97,3.29,372,SCM-0285,DC Tengah,Kurir Ekspres,1
+4/1/26,Tengah,Retail,Tepat Waktu,35.07,4.37,483,SCM-0286,DC Tengah,Kurir Ekspres,1
+8/30/25,Barat,Retail,Tepat Waktu,19.92,3.15,288,SCM-0287,DC Barat,Kurir Reguler,1
+9/17/25,Barat,Retail,Tepat Waktu,29.05,3.53,393,SCM-0288,DC Barat,Ekspedisi Truk,1
+3/26/26,Tengah,Retail,Tepat Waktu,24.1,2.73,350,SCM-0289,DC Tengah,Ekspedisi Truk,1
+9/6/25,Barat,Distributor,Tepat Waktu,39.22,5.6,578,SCM-0290,Mitra 3PL,Ekspedisi Truk,1
+10/30/25,Timur,Retail,Terlambat,19.95,5.37,275,SCM-0291,DC Timur,Ekspedisi Truk,1
+7/27/25,Barat,Distributor,Terlambat,12.12,3.02,232,SCM-0292,DC Timur,Ekspedisi Truk,1
+9/7/25,Timur,Distributor,Terlambat,13.29,2.95,194,SCM-0293,DC Timur,Ekspedisi Truk,1
+9/11/25,Barat,Online,Tepat Waktu,19.98,3.01,289,SCM-0294,DC Barat,Kurir Reguler,1
+12/11/25,Timur,Retail,Terlambat,14.16,4.23,166,SCM-0295,Mitra 3PL,Ekspedisi Truk,1
+10/21/25,Timur,Online,Tepat Waktu,31.4,4.35,454,SCM-0296,DC Timur,Kurir Reguler,1
+9/2/25,Timur,Distributor,Tepat Waktu,20.62,3.6,284,SCM-0297,DC Timur,Ekspedisi Truk,1
+2/6/25,Timur,Retail,Tepat Waktu,80.63,10.16,1107,SCM-0298,DC Timur,Ekspedisi Truk,1
+3/15/26,Timur,Distributor,Tepat Waktu,11.2,2.81,130,SCM-0299,DC Timur,Ekspedisi Truk,1
+3/7/26,Tengah,Online,Tepat Waktu,28.44,3.81,492,SCM-0300,DC Timur,Kurir Reguler,1
+3/31/25,Timur,Retail,Terlambat,15.01,2.93,201,SCM-0301,DC Timur,Kurir Reguler,1
+5/23/25,Barat,Online,Tepat Waktu,20.35,3.36,234,SCM-0302,DC Barat,Kurir Reguler,1
+4/18/26,Tengah,Retail,Tepat Waktu,27.6,4.54,362,SCM-0303,DC Tengah,Kurir Reguler,1
+6/5/25,Tengah,Distributor,Tepat Waktu,8.45,2.63,116,SCM-0304,DC Timur,Ekspedisi Truk,1
+1/29/26,Timur,Online,Tepat Waktu,28.9,5.21,424,SCM-0305,Mitra 3PL,Kurir Reguler,1
+1/17/26,Tengah,Retail,Tepat Waktu,64.29,8.48,919,SCM-0306,DC Tengah,Ekspedisi Truk,1
+2/22/26,Barat,Online,Tepat Waktu,20.75,2.73,314,SCM-0307,Mitra 3PL,Kurir Reguler,1
+1/8/25,Tengah,Retail,Tepat Waktu,29.22,4.1,386,SCM-0308,DC Tengah,Ekspedisi Truk,1
+8/23/25,Barat,Distributor,Tepat Waktu,42.18,5.46,602,SCM-0309,DC Barat,Ekspedisi Truk,1
+10/2/25,Barat,Distributor,Tepat Waktu,23.84,3.38,303,SCM-0310,DC Barat,Ekspedisi Truk,1
+2/11/26,Tengah,Retail,Tepat Waktu,19.51,3.27,252,SCM-0311,DC Timur,Ekspedisi Truk,1
+4/19/25,Tengah,Retail,Tepat Waktu,8.65,1.58,89,SCM-0312,DC Tengah,Ekspedisi Truk,1
+5/29/25,Barat,Retail,Tepat Waktu,35.08,4.49,450,SCM-0313,DC Barat,Kurir Ekspres,1
+3/29/25,Barat,Retail,Tepat Waktu,24.43,5.16,379,SCM-0314,DC Barat,Ekspedisi Truk,1
+1/5/26,Barat,Retail,Tepat Waktu,15.86,2.45,246,SCM-0315,DC Barat,Kurir Ekspres,1
+4/30/26,Barat,Retail,Tepat Waktu,27.41,4.59,418,SCM-0316,DC Barat,Ekspedisi Truk,1
+3/10/25,Barat,Retail,Tepat Waktu,19.49,3.78,274,SCM-0317,DC Timur,Ekspedisi Truk,1
+4/24/25,Tengah,Retail,Terlambat,20.01,3.9,307,SCM-0318,DC Barat,Ekspedisi Truk,1
+5/29/25,Barat,Distributor,Tepat Waktu,34.5,4.45,421,SCM-0319,DC Barat,Ekspedisi Truk,1
+3/8/26,Timur,Distributor,Tepat Waktu,13.57,1.84,220,SCM-0320,DC Timur,Ekspedisi Truk,1
+8/5/25,Timur,Distributor,Tepat Waktu,42.64,4.84,603,SCM-0321,DC Timur,Ekspedisi Truk,1
+5/17/25,Tengah,Retail,Tepat Waktu,13.19,2.63,207,SCM-0322,DC Tengah,Ekspedisi Truk,1
+6/6/25,Barat,Online,Tepat Waktu,18.76,3.08,276,SCM-0323,DC Tengah,Kurir Reguler,1
+10/18/25,Tengah,Distributor,Tepat Waktu,64.91,8.45,874,SCM-0324,DC Tengah,Ekspedisi Truk,1
+7/7/25,Timur,Retail,Tepat Waktu,44.31,5.37,568,SCM-0325,DC Tengah,Ekspedisi Truk,1
+3/10/25,Tengah,Retail,Tepat Waktu,27.03,5.62,353,SCM-0326,DC Timur,Ekspedisi Truk,1
+2/2/26,Timur,Distributor,Tepat Waktu,16.42,2.89,250,SCM-0327,DC Timur,Ekspedisi Truk,1
+7/24/25,Tengah,Retail,Tepat Waktu,20,2.89,304,SCM-0328,DC Tengah,Kurir Reguler,1
+5/5/25,Tengah,Distributor,Tepat Waktu,26.71,3.01,326,SCM-0329,Mitra 3PL,Ekspedisi Truk,1
+12/20/25,Barat,Online,Tepat Waktu,26.26,3.44,333,SCM-0330,DC Barat,Kurir Reguler,1
+12/28/25,Tengah,Retail,Tepat Waktu,24.69,4.07,320,SCM-0331,DC Tengah,Kurir Ekspres,1
+3/17/25,Barat,Retail,Tepat Waktu,25.41,4.79,343,SCM-0332,DC Barat,Ekspedisi Truk,1
+2/5/25,Tengah,Online,Tepat Waktu,23.27,3.34,278,SCM-0333,DC Tengah,Kurir Reguler,1
+1/23/25,Timur,Distributor,Tepat Waktu,12.91,3.63,131,SCM-0334,DC Timur,Ekspedisi Truk,1
+1/7/26,Barat,Retail,Tepat Waktu,20.13,2.54,253,SCM-0335,Mitra 3PL,Ekspedisi Truk,1
+10/31/25,Tengah,Online,Tepat Waktu,40.01,5.44,563,SCM-0336,DC Timur,Kurir Reguler,1
+1/20/26,Barat,Online,Terlambat,13.37,3.33,146,SCM-0337,DC Barat,Kurir Reguler,1
+10/31/25,Tengah,Distributor,Terlambat,23.55,4.58,326,SCM-0338,DC Tengah,Ekspedisi Truk,1
+7/14/25,Barat,Distributor,Tepat Waktu,17.4,2.78,281,SCM-0339,DC Tengah,Ekspedisi Truk,1
+10/13/25,Timur,Retail,Tepat Waktu,27.21,3.99,335,SCM-0340,DC Timur,Kurir Reguler,1
+12/17/25,Barat,Retail,Tepat Waktu,21.4,2.67,292,SCM-0341,DC Barat,Ekspedisi Truk,1
+7/13/25,Timur,Distributor,Tepat Waktu,52.41,7.63,770,SCM-0342,Mitra 3PL,Ekspedisi Truk,1
+3/20/26,Timur,Retail,Tepat Waktu,32.89,5.08,446,SCM-0343,DC Timur,Ekspedisi Truk,1
+3/13/26,Tengah,Distributor,Tepat Waktu,13.74,2.48,172,SCM-0344,DC Tengah,Kurir Ekspres,1
+1/24/26,Timur,Online,Tepat Waktu,35.59,5.4,539,SCM-0345,DC Timur,Kurir Ekspres,1
+4/27/26,Timur,Retail,Tepat Waktu,17.78,3.86,238,SCM-0346,DC Timur,Ekspedisi Truk,1
+7/9/25,Timur,Distributor,Tepat Waktu,19.55,3.32,312,SCM-0347,DC Tengah,Ekspedisi Truk,1
+2/25/25,Barat,Retail,Tepat Waktu,29.98,6.13,435,SCM-0348,DC Barat,Ekspedisi Truk,1
+8/23/25,Tengah,Online,Terlambat,20.37,4.29,273,SCM-0349,Mitra 3PL,Kurir Reguler,1
+12/28/25,Barat,Retail,Tepat Waktu,126.69,14.3,1790,SCM-0350,DC Barat,Ekspedisi Truk,1
+1/13/26,Tengah,Distributor,Tepat Waktu,17.78,2.89,260,SCM-0351,DC Tengah,Ekspedisi Truk,1
+7/8/25,Barat,Distributor,Tepat Waktu,19.16,3.64,304,SCM-0352,DC Barat,Ekspedisi Truk,1
+5/22/25,Tengah,Retail,Tepat Waktu,18.82,3.98,244,SCM-0353,DC Tengah,Ekspedisi Truk,1
+8/5/25,Tengah,Distributor,Terlambat,19.66,3.84,277,SCM-0354,DC Tengah,Ekspedisi Truk,1
+1/25/26,Tengah,Distributor,Terlambat,43.71,5.95,610,SCM-0355,DC Tengah,Ekspedisi Truk,1
+1/30/25,Tengah,Distributor,Tepat Waktu,34.88,4.48,513,SCM-0356,DC Tengah,Ekspedisi Truk,1
+6/9/25,Timur,Distributor,Tepat Waktu,58.6,6.66,785,SCM-0357,DC Timur,Ekspedisi Truk,1
+4/22/25,Timur,Online,Terlambat,76.59,10.56,1108,SCM-0358,DC Timur,Kurir Ekspres,1
+1/26/26,Tengah,Retail,Tepat Waktu,15.73,2.27,236,SCM-0359,DC Tengah,Ekspedisi Truk,1
+8/16/25,Tengah,Distributor,Tepat Waktu,26.68,3.36,327,SCM-0360,DC Tengah,Ekspedisi Truk,1
+2/12/25,Timur,Retail,Tepat Waktu,14.66,3.04,248,SCM-0361,DC Timur,Ekspedisi Truk,1
+5/7/25,Barat,Distributor,Tepat Waktu,17.76,4.14,327,SCM-0362,Mitra 3PL,Ekspedisi Truk,1
+1/22/25,Barat,Distributor,Terlambat,19.06,3.32,302,SCM-0363,DC Tengah,Ekspedisi Truk,1
+8/19/25,Barat,Retail,Tepat Waktu,15.53,2.59,267,SCM-0364,DC Barat,Ekspedisi Truk,1
+4/29/26,Tengah,Retail,Tepat Waktu,15.57,2.38,221,SCM-0365,DC Tengah,Kurir Reguler,1
+10/3/25,Tengah,Online,Tepat Waktu,24.06,4.61,279,SCM-0366,Mitra 3PL,Kurir Reguler,1
+2/26/26,Timur,Retail,Tepat Waktu,14.38,2.31,137,SCM-0367,DC Tengah,Ekspedisi Truk,1
+12/27/25,Tengah,Distributor,Tepat Waktu,38.64,4.56,550,SCM-0368,DC Tengah,Ekspedisi Truk,1
+3/5/26,Barat,Retail,Tepat Waktu,16.6,2.58,212,SCM-0369,DC Barat,Ekspedisi Truk,1
+5/31/25,Timur,Online,Terlambat,99.34,13.42,1359,SCM-0370,DC Timur,Kurir Reguler,1
+4/7/26,Timur,Retail,Tepat Waktu,20.77,2.92,289,SCM-0371,DC Timur,Kurir Reguler,1
+4/26/25,Barat,Retail,Tepat Waktu,26.7,3.4,395,SCM-0372,DC Barat,Ekspedisi Truk,1
+8/1/25,Barat,Online,Tepat Waktu,13.85,2.22,143,SCM-0373,DC Barat,Kurir Reguler,1
+11/27/25,Barat,Online,Tepat Waktu,58.49,6.75,803,SCM-0374,DC Barat,Kurir Ekspres,1
+5/20/25,Barat,Retail,Tepat Waktu,44.14,5.52,671,SCM-0375,DC Barat,Ekspedisi Truk,1
+5/9/25,Barat,Retail,Tepat Waktu,29.74,3.76,379,SCM-0376,DC Tengah,Ekspedisi Truk,1
+3/5/25,Timur,Distributor,Terlambat,13.51,5.46,220,SCM-0377,DC Timur,Ekspedisi Truk,1
+1/3/25,Tengah,Online,Tepat Waktu,28.53,3.24,383,SCM-0378,Mitra 3PL,Kurir Reguler,1
+9/1/25,Barat,Retail,Tepat Waktu,15.06,2.02,230,SCM-0379,Mitra 3PL,Ekspedisi Truk,1
+4/24/26,Tengah,Distributor,Tepat Waktu,52.04,6.18,767,SCM-0380,DC Tengah,Ekspedisi Truk,1
+4/17/25,Tengah,Distributor,Terlambat,38.03,5.31,558,SCM-0381,DC Tengah,Ekspedisi Truk,1
+8/2/25,Timur,Distributor,Tepat Waktu,27,4.01,410,SCM-0382,Mitra 3PL,Ekspedisi Truk,1
+3/30/26,Timur,Distributor,Tepat Waktu,8.01,1.29,72,SCM-0383,DC Tengah,Ekspedisi Truk,1
+1/10/26,Tengah,Distributor,Tepat Waktu,16.09,1.96,264,SCM-0384,DC Tengah,Ekspedisi Truk,1
+1/2/25,Barat,Retail,Tepat Waktu,35.88,4.77,472,SCM-0385,DC Tengah,Kurir Reguler,1
+8/31/25,Timur,Online,Tepat Waktu,46.16,5.68,655,SCM-0386,DC Timur,Kurir Ekspres,1
+3/11/25,Tengah,Online,Tepat Waktu,43.92,5.26,624,SCM-0387,DC Tengah,Ekspedisi Truk,1
+4/30/25,Timur,Distributor,Tepat Waktu,12.01,3.25,185,SCM-0388,DC Timur,Ekspedisi Truk,1
+4/30/25,Barat,Retail,Tepat Waktu,29.81,4.35,429,SCM-0389,DC Barat,Ekspedisi Truk,1
+10/25/25,Timur,Retail,Terlambat,41.99,6.4,558,SCM-0390,DC Timur,Ekspedisi Truk,1
+4/7/25,Tengah,Distributor,Tepat Waktu,11.63,2.37,116,SCM-0391,DC Tengah,Kurir Ekspres,1
+5/3/25,Barat,Retail,Tepat Waktu,25.69,3.87,390,SCM-0392,DC Barat,Ekspedisi Truk,1
+4/20/25,Tengah,Online,Tepat Waktu,29.41,3.86,418,SCM-0393,DC Tengah,Kurir Ekspres,1
+6/23/25,Tengah,Retail,Tepat Waktu,22.32,2.87,353,SCM-0394,DC Tengah,Ekspedisi Truk,1
+11/15/25,Barat,Distributor,Tepat Waktu,10.6,2,147,SCM-0395,DC Tengah,Ekspedisi Truk,1
+7/13/25,Tengah,Online,Terlambat,22.06,3.85,260,SCM-0396,DC Barat,Ekspedisi Truk,1
+6/8/25,Timur,Retail,Tepat Waktu,22.04,2.52,342,SCM-0397,DC Timur,Ekspedisi Truk,1
+9/9/25,Barat,Retail,Tepat Waktu,24.02,2.94,323,SCM-0398,DC Barat,Ekspedisi Truk,1
+10/26/25,Tengah,Distributor,Tepat Waktu,19.68,2.72,287,SCM-0399,DC Tengah,Ekspedisi Truk,1
+1/8/25,Tengah,Distributor,Terlambat,20.85,4.55,269,SCM-0400,DC Tengah,Ekspedisi Truk,1
+3/8/26,Barat,Retail,Tepat Waktu,25.3,3.62,412,SCM-0401,DC Barat,Ekspedisi Truk,1
+3/21/26,Timur,Distributor,Tepat Waktu,31.89,3.86,416,SCM-0402,Mitra 3PL,Ekspedisi Truk,1
+10/20/25,Timur,Online,Tepat Waktu,22.28,2.72,300,SCM-0403,DC Tengah,Kurir Reguler,1
+10/6/25,Barat,Retail,Terlambat,21.19,4.8,300,SCM-0404,DC Timur,Ekspedisi Truk,1
+12/3/25,Timur,Retail,Tepat Waktu,26.96,3.62,339,SCM-0405,DC Timur,Ekspedisi Truk,1
+8/2/25,Timur,Retail,Tepat Waktu,10.26,1.14,155,SCM-0406,DC Tengah,Ekspedisi Truk,1
+6/27/25,Barat,Retail,Tepat Waktu,32.43,4.25,510,SCM-0407,DC Barat,Kurir Ekspres,1
+6/21/25,Timur,Retail,Terlambat,25.78,4.88,344,SCM-0408,DC Timur,Ekspedisi Truk,1
+3/19/25,Barat,Retail,Tepat Waktu,26.29,3.15,382,SCM-0409,DC Barat,Kurir Reguler,1
+2/12/26,Timur,Distributor,Tepat Waktu,40.9,5.29,476,SCM-0410,DC Timur,Ekspedisi Truk,1
+6/5/25,Tengah,Retail,Terlambat,10.1,2.76,140,SCM-0411,DC Tengah,Kurir Reguler,1
+5/18/25,Tengah,Online,Tepat Waktu,10,1.38,129,SCM-0412,DC Tengah,Kurir Reguler,1
+4/13/26,Barat,Retail,Tepat Waktu,29.41,5.01,383,SCM-0413,DC Barat,Ekspedisi Truk,1
+9/3/25,Timur,Retail,Tepat Waktu,25.7,3.69,398,SCM-0414,DC Timur,Ekspedisi Truk,1
+10/29/25,Barat,Distributor,Tepat Waktu,27.99,3.63,380,SCM-0415,DC Barat,Kurir Ekspres,1
+4/30/25,Barat,Online,Terlambat,20.66,3.73,283,SCM-0416,Mitra 3PL,Kurir Reguler,1
+5/15/25,Barat,Retail,Tepat Waktu,35.48,4.13,483,SCM-0417,DC Barat,Kurir Reguler,1
+12/20/25,Timur,Retail,Tepat Waktu,40.35,4.66,498,SCM-0418,DC Timur,Ekspedisi Truk,1
+8/7/25,Barat,Retail,Tepat Waktu,32.53,4.09,416,SCM-0419,DC Barat,Ekspedisi Truk,1
+3/13/25,Timur,Distributor,Tepat Waktu,22.76,3.04,352,SCM-0420,DC Timur,Kurir Ekspres,1
+2/10/26,Tengah,Retail,Tepat Waktu,9.38,1.65,57,SCM-0421,DC Tengah,Kurir Reguler,1
+7/15/25,Barat,Retail,Terlambat,37.31,6.79,496,SCM-0422,Mitra 3PL,Ekspedisi Truk,1
+11/21/25,Barat,Retail,Tepat Waktu,46.36,6.29,635,SCM-0423,Mitra 3PL,Ekspedisi Truk,1
+6/15/25,Barat,Distributor,Tepat Waktu,35.14,3.98,553,SCM-0424,DC Timur,Ekspedisi Truk,1
+9/29/25,Tengah,Online,Tepat Waktu,16.91,3.51,264,SCM-0425,DC Tengah,Kurir Reguler,1
+1/12/26,Timur,Distributor,Terlambat,35.64,5.23,479,SCM-0426,DC Timur,Ekspedisi Truk,1
+3/6/26,Barat,Distributor,Tepat Waktu,38.98,5.56,591,SCM-0427,DC Barat,Ekspedisi Truk,1
+4/11/25,Timur,Retail,Terlambat,54.5,7.34,737,SCM-0428,DC Barat,Ekspedisi Truk,1
+11/23/25,Barat,Retail,Tepat Waktu,16.94,2.68,272,SCM-0429,DC Barat,Ekspedisi Truk,1
+3/20/26,Timur,Retail,Terlambat,23.13,3.59,276,SCM-0430,DC Timur,Ekspedisi Truk,1
+11/8/25,Timur,Distributor,Tepat Waktu,36.92,5.02,554,SCM-0431,DC Timur,Ekspedisi Truk,1
+3/11/25,Timur,Online,Tepat Waktu,26.51,4.3,357,SCM-0432,DC Timur,Kurir Ekspres,1
+4/3/25,Tengah,Online,Terlambat,15.08,2.61,175,SCM-0433,DC Timur,Kurir Ekspres,1
+4/9/25,Timur,Online,Terlambat,31.47,5.66,433,SCM-0434,DC Timur,Kurir Reguler,1
+2/21/25,Barat,Online,Tepat Waktu,34.05,4.16,486,SCM-0435,DC Barat,Kurir Reguler,1
+1/1/26,Barat,Online,Tepat Waktu,26.9,5.26,359,SCM-0436,DC Barat,Kurir Reguler,1
+4/14/26,Barat,Retail,Tepat Waktu,28.66,4.44,421,SCM-0437,DC Tengah,Ekspedisi Truk,1
+9/8/25,Tengah,Retail,Tepat Waktu,22.78,3.64,298,SCM-0438,DC Tengah,Kurir Ekspres,1
+10/18/25,Tengah,Retail,Tepat Waktu,52.43,6.43,756,SCM-0439,DC Tengah,Kurir Reguler,1
+1/11/26,Tengah,Distributor,Tepat Waktu,16.74,5.4,250,SCM-0440,Mitra 3PL,Ekspedisi Truk,1
+7/21/25,Timur,Retail,Tepat Waktu,19.45,2.65,270,SCM-0441,DC Tengah,Kurir Reguler,1
+8/18/25,Barat,Online,Terlambat,25.93,3.95,348,SCM-0442,DC Barat,Kurir Reguler,1
+10/13/25,Tengah,Distributor,Tepat Waktu,39.33,4.75,556,SCM-0443,DC Tengah,Ekspedisi Truk,1
+5/28/25,Barat,Distributor,Tepat Waktu,12.57,2.94,195,SCM-0444,DC Barat,Ekspedisi Truk,1
+1/30/25,Barat,Retail,Tepat Waktu,13.75,2.32,265,SCM-0445,DC Barat,Kurir Reguler,1
+10/3/25,Tengah,Retail,Tepat Waktu,9.7,1.78,169,SCM-0446,DC Barat,Kurir Reguler,1
+2/3/26,Timur,Retail,Tepat Waktu,26.2,3.4,401,SCM-0447,DC Timur,Kurir Reguler,1
+2/5/25,Tengah,Online,Terlambat,15.08,3.15,319,SCM-0448,DC Tengah,Kurir Ekspres,1
+4/16/25,Barat,Distributor,Tepat Waktu,21.44,2.85,318,SCM-0449,DC Barat,Ekspedisi Truk,1
+5/8/25,Tengah,Distributor,Tepat Waktu,35.43,5.11,513,SCM-0450,DC Tengah,Ekspedisi Truk,1
+1/26/26,Barat,Retail,Tepat Waktu,18.95,2.7,290,SCM-0451,DC Barat,Ekspedisi Truk,1
+9/2/25,Timur,Retail,Tepat Waktu,28.82,3.6,368,SCM-0452,DC Timur,Kurir Reguler,1
+9/17/25,Tengah,Retail,Tepat Waktu,22.34,3.92,297,SCM-0453,DC Tengah,Ekspedisi Truk,1
+11/9/25,Barat,Distributor,Tepat Waktu,35.61,4.23,481,SCM-0454,DC Barat,Ekspedisi Truk,1
+5/15/25,Barat,Distributor,Tepat Waktu,32.4,4.38,476,SCM-0455,DC Barat,Ekspedisi Truk,1
+12/13/25,Barat,Retail,Tepat Waktu,18.5,2.13,253,SCM-0456,Mitra 3PL,Kurir Ekspres,1
+1/15/25,Timur,Online,Tepat Waktu,23.78,2.82,338,SCM-0457,DC Timur,Kurir Ekspres,1
+2/25/25,Tengah,Retail,Tepat Waktu,42.56,5.24,634,SCM-0458,DC Barat,Ekspedisi Truk,1
+1/31/26,Timur,Online,Tepat Waktu,31.15,3.91,466,SCM-0459,Mitra 3PL,Kurir Ekspres,1
+11/16/25,Tengah,Retail,Tepat Waktu,13.19,1.93,179,SCM-0460,DC Tengah,Kurir Reguler,1
+3/27/25,Tengah,Retail,Tepat Waktu,35.33,5.19,471,SCM-0461,DC Tengah,Ekspedisi Truk,1
+8/1/25,Barat,Online,Tepat Waktu,15.32,3.04,254,SCM-0462,DC Barat,Kurir Ekspres,1
+1/26/25,Timur,Retail,Tepat Waktu,50.81,6.53,738,SCM-0463,DC Timur,Kurir Reguler,1
+11/22/25,Barat,Retail,Tepat Waktu,42.16,4.93,534,SCM-0464,Mitra 3PL,Ekspedisi Truk,1
+1/2/26,Tengah,Retail,Tepat Waktu,29.64,3.94,404,SCM-0465,DC Tengah,Kurir Reguler,1
+5/16/25,Tengah,Retail,Tepat Waktu,27.81,5.57,395,SCM-0466,DC Barat,Ekspedisi Truk,1
+6/19/25,Tengah,Distributor,Terlambat,23.33,6.7,354,SCM-0467,Mitra 3PL,Ekspedisi Truk,1
+4/25/25,Timur,Online,Terlambat,35.72,6.21,532,SCM-0468,DC Timur,Kurir Ekspres,1
+7/8/25,Barat,Online,Tepat Waktu,21.59,2.68,312,SCM-0469,DC Barat,Kurir Reguler,1
+5/13/25,Tengah,Retail,Tepat Waktu,28.88,3.87,425,SCM-0470,DC Tengah,Kurir Reguler,1
+4/30/25,Tengah,Distributor,Tepat Waktu,39.19,5.2,551,SCM-0471,DC Tengah,Ekspedisi Truk,1
+7/28/25,Tengah,Retail,Tepat Waktu,19.69,2.96,252,SCM-0472,DC Tengah,Ekspedisi Truk,1
+2/21/26,Barat,Retail,Terlambat,19.19,4.49,259,SCM-0473,DC Barat,Kurir Reguler,1
+1/5/26,Barat,Retail,Tepat Waktu,14.54,2.86,204,SCM-0474,DC Barat,Ekspedisi Truk,1
+5/25/25,Barat,Online,Tepat Waktu,15.47,1.99,215,SCM-0475,DC Barat,Kurir Reguler,1
+4/3/26,Barat,Online,Tepat Waktu,10.72,1.62,84,SCM-0476,DC Barat,Kurir Reguler,1
+4/12/25,Tengah,Distributor,Tepat Waktu,36.61,5.5,499,SCM-0477,DC Tengah,Kurir Reguler,1
+3/18/26,Tengah,Distributor,Tepat Waktu,61.45,8.69,862,SCM-0478,DC Tengah,Ekspedisi Truk,1
+5/30/25,Tengah,Distributor,Tepat Waktu,51.12,6.52,706,SCM-0479,DC Tengah,Ekspedisi Truk,1
+9/20/25,Tengah,Distributor,Tepat Waktu,11.82,3.39,157,SCM-0480,DC Tengah,Ekspedisi Truk,1
